@@ -25,4 +25,6 @@ while (j<=40)
 
 
 }
+
+return 0;
 }
