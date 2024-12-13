@@ -18,6 +18,8 @@ bool yes =true;
             for (int i=num; i>0; i--)
             {
                 factorial = i*factorial;
+                printf("the factorial currently is %d\n", factorial);
+
 
 
 
@@ -29,7 +31,7 @@ bool yes =true;
         else
         {
 
-            printf("This number is not positive");
+            printf("This number is not positive\n");
 
 
         }
